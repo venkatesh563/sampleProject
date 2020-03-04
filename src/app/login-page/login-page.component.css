@@ -1,0 +1,16 @@
+h1
+{
+    color: red;
+}
+tr{
+    color: brown;
+}
+table {
+    border:1px solid black;
+    height: 250px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 30px;
+    border-collapse: collapse;
+    width: 20%;
+  }
